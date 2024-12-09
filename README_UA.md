@@ -26,6 +26,5 @@ The Welder generates a double pulse, where the first one is 12% of the time of t
 
 If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
-You can get parts to build your own Spot Welder or prebuilt kits at https://malectrics.eu/
+You can get parts to build your own Spot Welder or prebuilt kits at [fx.in.ua/spot-welder-pro/](https://www.fx.in.ua/spot-welder-pro/)
 
-![mono_funding](https://github.com/MYMDO/Arduino_Spot_Welder_Pro/blob/main/.github/mono_funding.jpg)
