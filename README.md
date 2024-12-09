@@ -27,3 +27,5 @@ The Welder generates a double pulse, where the first one is 12% of the time of t
 If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
 You can get parts to build your own Spot Welder or prebuilt kits at [fx.in.ua/spot-welder-pro/](https://www.fx.in.ua/spot-welder-pro/)
+
+monobank: https://send.monobank.ua/jar/6DHmpDk5wq | 💳 4441 1111 2924 0184
