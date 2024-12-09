@@ -1,7 +1,7 @@
-# Arduino_Spot_Welder_V4
-This is the latest V4 of the Arduino Spot Welder. The previous V3 can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder_V3
+# Arduino Spot Welder Pro
+This is the latest Alpha version of the Arduino Spot Welder Pro. The is forked from [KaeptnBalu/Arduino_Spot_Welder_V4](https://github.com/KaeptnBalu/Arduino_Spot_Welder_V4)
 
-An Arduino based Spot Welder for battery welding
+An Arduino based Spot Welder Pro for battery welding
 
     Build Guide: Car Bundle: https://malectrics.eu/v4-car-battery-bundle-assembly-instructions/ 
                  Lipo Bundle:https://malectrics.eu/v4-lipo-battery-bundle-assembly-instructions/
