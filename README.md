@@ -28,4 +28,4 @@ If you want to download the project click on "clone or download" on this page. D
 
 You can get parts to build your own Spot Welder or prebuilt kits at https://malectrics.eu/
 
-![mono_funding](https://github.com/user-attachments/assets/45a6de3a-1b37-405c-9e02-dae7b4ea55f2)
+![mono_funding](https://github.com/MYMDO/Arduino_Spot_Welder_Pro/blob/main/.github/mono_funding.jpg)
