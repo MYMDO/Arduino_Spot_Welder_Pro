@@ -1,4 +1,4 @@
-# 🇺🇦 Arduino Spot Welder Pro 🇺🇦 [UA](https://github.com/MYMDO/Arduino_Spot_Welder_Pro/blob/main/README_UA.md)
+# 🇺🇦 Arduino Spot Welder Pro 🇺🇦 | [UA](https://github.com/MYMDO/Arduino_Spot_Welder_Pro/blob/main/README_UA.md)
 This is the latest Alpha version of the Arduino Spot Welder Pro. The is forked from [KaeptnBalu/Arduino_Spot_Welder_V4](https://github.com/KaeptnBalu/Arduino_Spot_Welder_V4)
 
 An Arduino based Spot Welder Pro for battery welding
