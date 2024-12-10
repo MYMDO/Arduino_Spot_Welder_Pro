@@ -3,10 +3,7 @@ This is the latest Alpha version of the Arduino Spot Welder Pro. The is forked f
 
 An Arduino based Spot Welder Pro for battery welding
 
-    Build Guide: Car Bundle: https://malectrics.eu/v4-car-battery-bundle-assembly-instructions/ 
-                 Lipo Bundle:https://malectrics.eu/v4-lipo-battery-bundle-assembly-instructions/
-    Introduction Video: coming soon (Video for previuos V3 https://www.youtube.com/watch?v=CNmvx2JSCvA)
-    Project Homepage: https://malectrics.eu/
+___
 
 Improvements in V4:
 
