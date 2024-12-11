@@ -32,7 +32,8 @@ You can get parts to build your own Spot Welder or prebuilt kits at [fx.in.ua/sp
 
 > ___
 >
-> Sponsor this project: 
+> Sponsor this project:
+>
 > [🔗 monobank | 💳 4441 1111 2924 0184 | 🇺🇦](https://send.monobank.ua/jar/6DHmpDk5wq)       
 >
 > ___
